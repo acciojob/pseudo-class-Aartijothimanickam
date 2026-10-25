@@ -10,11 +10,11 @@
 }
 #container ::before {
   content: "Before";
-	font-size: '20px';
+	font-size: 20px;
   color: red;
 }
 #container ::after {
   content: "After";
-	font-size: '20px';
+	font-size: 20px;
   color: red;
 }
